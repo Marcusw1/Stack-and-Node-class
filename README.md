@@ -1,2 +1,2 @@
 # Stack-and-Node-class
-This is a stack node implementation.
+This is a node implementation of a basic stack.
